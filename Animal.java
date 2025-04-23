@@ -5,7 +5,7 @@
         }
 
         public void makeNoise() {
-            System.out.println("Zwierzę wydaje dźwięk.");
+            System.out.println("Zwierzę wydaje dźwięk..");
         }
 
         public void roam() {
